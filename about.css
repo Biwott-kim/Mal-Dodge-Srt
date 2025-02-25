@@ -1,0 +1,44 @@
+h1 {
+    font-family:FreeSans;
+    text-align:center;
+    font-weight:800;
+    line-height:44px;
+    font-size:44px;
+    font-style:normal;
+}
+body{
+    color:white;
+    background-color:#191e28
+}
+#navbarul{
+    list-style-type:none;
+    padding-bottom:120px;
+}
+.navbarli{
+    float:left;
+}
+li a:hover{
+    text-decoration:underline;
+    background-color:black;
+}
+li a{
+    display:block;
+    color:white;
+    text-decoration:none;
+    text-align:center;
+    padding:20px;
+}
+li.active{
+    background-color:black;
+}
+#navbar1{
+    background-color:rgba(25,30,40,80);
+
+}
+#aboutlogo{
+    display:block;
+    float: right;
+    border-radius:14px;
+    
+    
+}
